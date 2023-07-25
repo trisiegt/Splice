@@ -1,2 +1,2 @@
 # Splice
-A pseudoclient for Counter-Strike: Global Offensive
+A pseudoclient for Counter-Strike: Global Offensiv
