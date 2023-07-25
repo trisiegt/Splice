@@ -1,0 +1,17 @@
+C:\Users\Tristan\source\repos\Splice\Splice\bin\Debug\net7.0-windows\Splice.exe
+C:\Users\Tristan\source\repos\Splice\Splice\bin\Debug\net7.0-windows\Splice.deps.json
+C:\Users\Tristan\source\repos\Splice\Splice\bin\Debug\net7.0-windows\Splice.runtimeconfig.json
+C:\Users\Tristan\source\repos\Splice\Splice\bin\Debug\net7.0-windows\Splice.dll
+C:\Users\Tristan\source\repos\Splice\Splice\bin\Debug\net7.0-windows\Splice.pdb
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.vbproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.Form1.resources
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.vbproj.GenerateResource.cache
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.AssemblyInfoInputs.cache
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.AssemblyInfo.vb
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.vbproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.dll
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\refint\Splice.dll
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.pdb
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\Splice.genruntimeconfig.cache
+C:\Users\Tristan\source\repos\Splice\Splice\obj\Debug\net7.0-windows\ref\Splice.dll

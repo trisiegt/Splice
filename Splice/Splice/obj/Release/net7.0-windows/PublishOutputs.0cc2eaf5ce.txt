@@ -1,0 +1,5 @@
+G:\Desktop\splicehax-build\Splice.exe
+G:\Desktop\splicehax-build\Splice.dll
+G:\Desktop\splicehax-build\Splice.deps.json
+G:\Desktop\splicehax-build\Splice.runtimeconfig.json
+G:\Desktop\splicehax-build\Splice.pdb
